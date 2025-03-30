@@ -1,5 +1,5 @@
 # Data-Sufficiency-of-Battery-Degradation-Trajectory-Prediction
-This repository is for the data sufficiency theory for data-driven battery degradation prediction. Fundamentally, it answers the question: how much early cycle data is sufficient for robust and generalizable early predictions. 
+This repository is for the data sufficiency theory for data-driven battery degradation prediction. Fundamentally, it answers the question: how much early cycle data is sufficient for robust and generalizable early predictions.
 # 1.Set Up
 ## 1.1 Enviroments
 - Python (Jupyter notebook)
