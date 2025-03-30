@@ -354,8 +354,8 @@ max_score_idx = scores_series[:10].idxmax()
 max_score_value = scores_series[:10].max()   
 ```
 # 6. Access
-Correspondence to [Lin Su](sul24@mails.tsinghua.edu.cn) and CC Prof. [Xuan Zhang](xuanzhang@sz.tsinghua.edu.cn) and [Guangmin Zhou](guangminzhou@sz.tsinghua.edu.cn) when you use, or have any inquiries.
+Correspondence to [Terence (Shengyu) Tao](mailto:terencetaotbsi@gmail.com) or [Lin Su](sul24@mails.tsinghua.edu.cn) and CC Prof. [Xuan Zhang](xuanzhang@sz.tsinghua.edu.cn) and [Guangmin Zhou](guangminzhou@sz.tsinghua.edu.cn) when you use, or have any inquiries.
 # 7. Acknowledgements
-[Lin Su](sul24@mails.tsinghua.edu.cn) and [Terence (Shengyu) Tao](mailto:terencetaotbsi@gmail.com)  at Tsinghua Berkeley Shenzhen Institute prepared the data, designed the model and algorithms, developed and tested the experiments, uploaded the model and experimental code, revised the testing experiment plan, and wrote this instruction document based on supplementary materials.
+[Terence (Shengyu) Tao](mailto:terencetaotbsi@gmail.com) and [Lin Su](sul24@mails.tsinghua.edu.cn) at Tsinghua Berkeley Shenzhen Institute prepared the data, designed the model and algorithms, developed and tested the experiments, uploaded the model and experimental code, revised the testing experiment plan, and wrote this instruction document based on supplementary materials.
 
 
